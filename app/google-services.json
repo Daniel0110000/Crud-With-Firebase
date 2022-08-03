@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "706272280339",
+    "firebase_url": "https://learn-firebase-350ef-default-rtdb.firebaseio.com",
+    "project_id": "learn-firebase-350ef",
+    "storage_bucket": "learn-firebase-350ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706272280339:android:110ca03e11082f5b09e4e6",
+        "android_client_info": {
+          "package_name": "com.example.registrodeproductos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706272280339-mh5g9g4ba1rel4ltl66njftho0eh76gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw4B9O8ESUwrBWGSsH74prLjXSyun34c4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706272280339-mh5g9g4ba1rel4ltl66njftho0eh76gf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
